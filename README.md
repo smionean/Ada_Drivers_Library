@@ -1,3 +1,8 @@
+Ceci est un fork, s.v.p. prenez l'original : https://github.com/AdaCore/Ada_Drivers_Library
+
+This is a fork, please use the original : https://github.com/AdaCore/Ada_Drivers_Library
+
+
 [![Build Status](https://travis-ci.org/AdaCore/Ada_Drivers_Library.svg?branch=master)](https://travis-ci.org/AdaCore/Ada_Drivers_Library)
 [![Build status](https://ci.appveyor.com/api/projects/status/dvay075xkwxgppwm?svg=true)](https://ci.appveyor.com/project/AdaCore/ada-drivers-library)
 
